@@ -1,4 +1,4 @@
-### Hi there 👋, This is Rakshir Sharma :)
+### Hi there 👋, This is Rakshit Sharma :bowtie:
 
 <!--
 **RakshitKumar04/RakshitKumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
