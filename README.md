@@ -1,8 +1,5 @@
 ### Hi there 👋, This is Rakshit Sharma :bowtie:
 
-name: Metrics embed
-uses: lowlighter/metrics@v3.26
-
 <!--
 **RakshitKumar04/RakshitKumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
